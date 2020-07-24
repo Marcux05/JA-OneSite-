@@ -1,8 +1,8 @@
 
 <h4>Languages used</h4>
-<b><p> HMTL
-    CSS
-    JavaScript</p></b> 
+<b><p>HMTL</p>
+    <p>CSS</p>
+    <p>JavaScript</p></b> 
    
-   #JA-OneSite-
-   Dev: Marcus Vinicius de Moura
+   <b><p>#JA-OneSite-</p>
+   <p>Dev: Marcus Vinicius de Moura</p></b>
