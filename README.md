@@ -1,7 +1,9 @@
-# JA-OneSite-
-this my first site for the JA.
-------
-<h1>Ling for used</h1>
-<p> HMTL
+
+---
+<h1>Languages used</h1>
+<p><b> HMTL
     CSS
-   JavaScript </p>
+    JavaScript</b> </p>
+   
+   #JA-OneSite-
+   Dev: Marcus Vinicius de Moura
